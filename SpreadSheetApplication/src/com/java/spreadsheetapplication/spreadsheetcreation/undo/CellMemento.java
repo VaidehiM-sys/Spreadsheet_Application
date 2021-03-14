@@ -3,7 +3,7 @@ package com.java.spreadsheetapplication.spreadsheetcreation.undo;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.java.cs635.assignment2.spreadsheet.Cell;
+import com.java.spreadsheetapplication.spreadsheetcreation.spreadsheet.Cell;
 
 public class CellMemento
 {

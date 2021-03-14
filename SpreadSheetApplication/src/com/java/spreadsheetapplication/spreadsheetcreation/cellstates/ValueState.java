@@ -1,10 +1,6 @@
 package com.java.spreadsheetapplication.spreadsheetcreation.cellstates;
-
-
 import com.java.spreadsheetapplication.spreadsheetcreation.spreadsheet.Cell;
 import com.java.spreadsheetapplication.spreadsheetcreation.spreadsheet.SpreadSheet;
-
-
 public class ValueState implements CellState
 {
 

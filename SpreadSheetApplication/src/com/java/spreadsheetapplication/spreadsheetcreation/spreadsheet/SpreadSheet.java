@@ -5,10 +5,10 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.java.cs635.assignment2.circulardependency.Graph;
-import com.java.cs635.assignment2.gui.GUI;
-import com.java.cs635.assignment2.undo.CellCaretaker;
-import com.java.cs635.assignment2.undo.CellMemento;
+import com.java.spreadsheetapplication.spreadsheetcreation.circulardependency.Graph;
+import com.java.spreadsheetapplication.spreadsheetcreation.assignment2.gui.GUI;
+import com.java.spreadsheetapplication.spreadsheetcreation.assignment2.undo.CellCaretaker;
+import com.java.spreadsheetapplication.spreadsheetcreation.assignment2.undo.CellMemento;
 
 public class SpreadSheet {
 	public static int numberOfColumns = 9;

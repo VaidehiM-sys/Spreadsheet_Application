@@ -2,8 +2,6 @@ package com.java.spreadsheetapplication.spreadsheetcreation.gui;
 
 import java.awt.FlowLayout;
 import java.util.Arrays;
-
-
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -18,8 +16,7 @@ import javax.swing.table.TableModel;
 
 import com.java.spreadsheetapplication.spreadsheetcreation.spreadsheet.Cell;
 import com.java.spreadsheetapplication.spreadsheetcreation.spreadsheet.SpreadSheet;
-
-import com.java.cs635.assignment2.undo.CellMemento;
+import com.java.spreadsheetapplication.spreadsheetcreation.undo.CellMemento;
 
 public class GUI
 {
